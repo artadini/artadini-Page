@@ -1,7 +1,7 @@
 ---
-title: Jump-start your personal blog and portfolio with the Hugo Liftoff theme.
-subtitle: Minimal blog/portfolio theme with a focus on content creation and SEO best practices. An ideal choice for technical users jump-starting a personal brand.
-seo_title: Hugo Liftoff | Hugo theme for creators
+title: artadini & The Bytes Bay
+subtitle: This is my personal space in the internet where I want to share my ideas, path in the world of data and provide a space to explore. The Bytes Bay is my personal blog in which I will publish the new "ships" docking.
+seo_title: Data | Data Engineering | Data Analysis | Data Career
 
 primary_cta_page: "about"
 secondary_cta_page: "projects"

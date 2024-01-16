@@ -1,14 +1,14 @@
 ---
-title: artadini & The Bytes Bay
-subtitle: This is my personal space in the internet where I want to share my ideas, path in the world of data and provide a space to explore. The Bytes Bay is my personal blog in which I will publish the new "ships" docking.
-seo_title: Data | Data Engineering | Data Analysis | Data Career
+title: Welcome to the Bytes Bays by Niko Artadi!
+subtitle: This is my harbor for a diverse range of ideas bridging the realms of business and data. This corner should serve as a joining spot for my Data Adventures Blog (and much more yet to come!) 🛸 Enjoy a laid-back exploration, good vibes and tech-biz talk. Let's dive in together! 🤿
+seo_title: Data Adventures Blog
 
-primary_cta_page: "about"
-secondary_cta_page: "projects"
+primary_cta_page: "journey"
+secondary_cta_page: "bbblog"
 
-posts_section_heading: Recent Posts
-projects_section_heading: My Projects
+posts_section_heading: Recent Logs
+# projects_section_heading: My Projects
 ---
 
-{{< recent-posts 5 >}}
-{{< projects 5 >}}
+{{< recent-posts 3 >}}
+<!-- {{< projects 5 >}} -->

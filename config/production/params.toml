@@ -14,10 +14,10 @@ fallback_text = "No content available yet. Coming soon." # Fallback text for emp
 label_drafts = true # Add a label indicator next to the title of any built drafts (dev only)
 
 # Customize newsletter text
-newsletter_header = "This is my custom newsletter header with a captivating title."
-newsletter_description = "This is my custom newsletter description that tells you why you should sign up."
-newsletter_submit = "Join now"
-global_newsletter = true # Enable newsletter site-wide
+# newsletter_header = "This is my custom newsletter header with a captivating title."
+# newsletter_description = "This is my custom newsletter description that tells you why you should sign up."
+3 newsletter_submit = "Join now"
+# global_newsletter = true # Enable newsletter site-wide
 
 # CSS / JavaScript
 enable_postcss = false # Enable if you're using npm and want to utilize PostCSS processing
@@ -34,7 +34,7 @@ ogLocale = "en_US" # Open graph locale
 # twitterCreator = "johndoestwitter" # Enter your twitter handle without the @
 
 # JSON-LD structured data schemas
-schemaName = "John Doe" # Enter your name
+schemaName = "Nikolas Artadi" # Enter your name
 schemaLocale = "en-US" # Structured data locale
 schemaImage = "images/default.png" # Image for Person structured data schema. Enter path to the image.
 schemaImageWidth = 453 # Width of the above image

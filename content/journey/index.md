@@ -21,4 +21,4 @@ My focus extends to enhancing CRM systems and refining processes in sales, custo
 
 I'm in a journey to step up the CRM game of the companies I work for. I strongly believe that a CRM is the heart of the company, it should pump the business with customer insights while supporting a scalable framework for commercial frontliners to work in.
 
-See my [blog]({{< ref "bbblog">}}) to read about my newest publications!
+See my [blog]({{< ref "blog">}}) to read about my newest publications!

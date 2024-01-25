@@ -4,9 +4,9 @@ subtitle: This is my harbor for a diverse range of ideas bridging the realms of 
 seo_title: The Bytes Bay
 
 primary_cta_page: "journey"
-secondary_cta_page: "blog"
+secondary_cta_page: "posts"
 
-posts_section_heading: Recent Logs
+posts_section_heading: Recent Posts
 # projects_section_heading: My Projects
 ---
 

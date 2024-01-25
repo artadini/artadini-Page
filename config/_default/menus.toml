@@ -33,9 +33,9 @@
 #    weight = 4
 
 [[main]]
-    identifier = "blog"
+    identifier = "posts"
     name = "Bytes Bay Blog"
-    url = "/blog/"
+    url = "/posts/"
     # parent = "writing"
     weight = 4
 

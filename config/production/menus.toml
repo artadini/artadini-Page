@@ -16,7 +16,7 @@
     identifier = "journey"
     name = "Journey"
     url = "/journey/"
-    weight = 2
+    weight = 1
 
 # [[main]]
 #    identifier = "contact"
@@ -33,19 +33,19 @@
 #    weight = 4
 
 [[main]]
-    identifier = "blog"
+# Top-level menu entry
+    identifier = "posts"
     name = "Bytes Bay Blog"
-    url = "/blog/"
-    # parent = "writing"
-    weight = 4
+    url = "/posts/"
+    weight = 1
 
 # [[main]]
 #    identifier = "subsection"
 #    name = "Subsection"
 #    url = "/subsection/"
-    # url = "/posts/subsection/" # Remove url param from subsection/_index.md frontmatter to use full permalink
-#    parent = "writing"
-#    weight = 5
+#    url = "/posts/subsection/" # Remove url param from subsection/_index.md frontmatter to use full permalink
+#    parent = "posts"
+#    weight = 2
 
 # [[main]]
     # Top-level menu entry
